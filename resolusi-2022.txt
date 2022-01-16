@@ -1,4 +1,4 @@
 RESOLUSI 2022
 - konsisten belajar django
 - konnsisten belajar CI
-- konsisten membuat software penelitian
+- membuat aplikasi KTM
