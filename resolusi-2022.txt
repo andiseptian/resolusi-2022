@@ -2,3 +2,4 @@ RESOLUSI 2022
 - konsisten belajar django
 - konnsisten belajar CI
 - membuat aplikasi KTM
+- membuat aplikasi mobile menggunakan flutter
